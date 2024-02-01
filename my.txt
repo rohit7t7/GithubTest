@@ -1,1 +1,2 @@
 I have done some changes in feature branch
+I have now added changes to feature branch2
